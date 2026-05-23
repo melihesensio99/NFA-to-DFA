@@ -1,8 +1,5 @@
-# NFA'dan DFA'ya Dönüşüm (Subset Construction) Raporu
+﻿# NFA'dan DFA'ya Dönüşüm (Subset Construction) Raporu
 
-**Ders:** Python Programlamaya Giriş / Otomata Teorisi
-**Öğrenci:** Melih Esen
-**Öğrenci No:** 2210656013
 
 Bu raporda, NFA'dan DFA'ya geçişi sağlayan "Subset Construction" (Alt Küme İnşası) algoritmasının Python ile nasıl implemente edildiği anlatılmaktadır. Kurallara uygun olarak kod içi yorumlar haricinde, genel tasarım kararlarını buraya da ekliyorum.
 

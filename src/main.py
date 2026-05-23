@@ -1,9 +1,4 @@
-# =================================================
-# Ders: Python Programlamaya Giriş
-# Öğrenci: Melih Esen
-# Numara: 2210656013
-# Ödev No: 3
-# Tarih: 23.05.2026
+﻿# =================================================
 #
 # Açıklama: NFA (Non-deterministic Finite Automaton) 
 # modelini DFA'ya (Deterministic Finite Automaton) dönüştüren 
